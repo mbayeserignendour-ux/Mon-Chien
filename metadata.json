@@ -1,0 +1,8 @@
+{
+  "name": "Univers des Chiens",
+  "description": "Encyclopédie canine moderne et interactive : découvrez plus de 50 races de chiens du monde entier, leurs origines, caractéristiques, fiches détaillées en 20 points, galerie multimédia et conseils d'experts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
